@@ -4,6 +4,8 @@ This boilerplate will allow you to setup kickass internal documentation in no ti
 
 Demo: http://gitbook-boilerplate-demo.herokuapp.com/
 
+More info: http://sandrinodimattia.net/better-internal-documentation-with-gitbook-express-and-auth0/
+
 ## Configuration
 
  1. Create an [Auth0](https://auth0.com) account
