@@ -1,0 +1,16 @@
+{
+  "title": "XYZ Documentation",
+  "links": {
+    "sidebar": {
+      "XYZ Documentation": "http://sandrinodimattia.net",
+      "Logout": "/logout"
+    }
+  },
+  "pluginsConfig": {
+    "sharing": {
+        "google": false,
+        "facebook": false,
+        "twitter": false
+    }
+  }
+}
