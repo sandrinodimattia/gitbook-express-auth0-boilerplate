@@ -31,7 +31,7 @@ app.use(session({
   secret: nconf.get('SESSION_SECRET'),
   saveUninitialized: true,
   resave: false,
-  cookie: { maxAge: 60000 }
+  cookie: { maxAge: 3600000 }
 }));
 app.use(passport.initialize());
 app.use(passport.session());

@@ -2,6 +2,8 @@
 
 This boilerplate will allow you to setup kickass internal documentation in no time. The book will be built and hosted in a small Express application which uses `passport-auth0` for authentication.
 
+Demo: http://gitbook-boilerplate-demo.herokuapp.com/
+
 ## Configuration
 
  1. Create an [Auth0](https://auth0.com) account
