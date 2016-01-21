@@ -10,6 +10,7 @@ Demo: http://gitbook-boilerplate-demo.herokuapp.com/
  2. Create a new application in Auth0
  3. Set the **Allowed Callback URLs** to http://localhost:4001/login/callback (or change this to your actual domain)
  4. Update the settings in the **config.json** file (or use environment variables)
+ 5. Update the title/links/... of your book in **content/book.json**
 
 ### Settings
 
